@@ -1,11 +1,18 @@
-# Ignore Python virtual environments
+# Ignore virtual environments
 venv/
+
+# Ignore Python cache files
 __pycache__/
-*.pyc
+*.py[cod]
+*.so
 
-# Ignore IDE folders and logs
-.vscode/
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log and output files
 *.log
+output/
 
-# Ignore output from parser
-/output/
+# Ignore environment config
+.env
