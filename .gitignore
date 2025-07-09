@@ -1,12 +1,11 @@
-# Ignore Python venv and caches
+# Ignore Python virtual environments
 venv/
 __pycache__/
 *.pyc
 
-# Ignore IDE and OS clutter
+# Ignore IDE folders and logs
 .vscode/
-.DS_Store
 *.log
 
-# Ignore test output folders
+# Ignore output from parser
 /output/
