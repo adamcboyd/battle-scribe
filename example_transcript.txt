@@ -1,0 +1,7 @@
+DM: The goblin snarls and lunges at you with a dagger. It rolls a 13.
+Player: My AC is 14!
+DM: The attack misses. Your turn.
+Player: I swing my longsword and roll a 17.
+DM: That hits! Roll damage.
+Player: 8 slashing damage.
+DM: The goblin screams and drops to the floor, dead.

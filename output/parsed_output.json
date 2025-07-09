@@ -1,0 +1,51 @@
+[
+  {
+    "speaker": "DM",
+    "text": "The goblin snarls and lunges at you with a dagger. It rolls a 13.",
+    "inferred_action": "roll",
+    "targets": [
+      "goblin",
+      "you"
+    ]
+  },
+  {
+    "speaker": "Player",
+    "text": "My AC is 14!",
+    "inferred_action": "narration",
+    "targets": []
+  },
+  {
+    "speaker": "DM",
+    "text": "The attack misses. Your turn.",
+    "inferred_action": "attack",
+    "targets": [
+      "You"
+    ]
+  },
+  {
+    "speaker": "Player",
+    "text": "I swing my longsword and roll a 17.",
+    "inferred_action": "roll",
+    "targets": []
+  },
+  {
+    "speaker": "DM",
+    "text": "That hits! Roll damage.",
+    "inferred_action": "roll",
+    "targets": []
+  },
+  {
+    "speaker": "Player",
+    "text": "8 slashing damage.",
+    "inferred_action": "damage",
+    "targets": []
+  },
+  {
+    "speaker": "DM",
+    "text": "The goblin screams and drops to the floor, dead.",
+    "inferred_action": "death",
+    "targets": [
+      "goblin"
+    ]
+  }
+]
